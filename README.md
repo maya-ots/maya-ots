@@ -1,3 +1,10 @@
+<br clear="both">
+
+<div align="center">
+  <img height="200" width="800" src="https://i.pinimg.com/originals/c8/4f/b7/c84fb740471d58ba9597ace28969d490.gif"  />
+</div>
+
+
 # 💫 About Me:
 Hi, I’m a computer science student who loves building things—from web apps and encryption tools to data science models and creative game projects. I’m always exploring new technologies, improving my skills, and challenging myself with hackathons and technical projects. I’m especially interested in software development, AI, DevOps, and digital design.
 
