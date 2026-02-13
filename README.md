@@ -21,7 +21,7 @@ Hi, I’m a computer science student who loves building things—from web apps a
  - Practicing competitive programming
  - Web design, 3D, animations
 
-# 🏆 5. Achievements & Challenges
+# 🏆 Achievements & Challenges
 
  - Best event : Ideathon 2024/2025
  - 3rd place winner in Cyber Combat
@@ -30,6 +30,11 @@ Hi, I’m a computer science student who loves building things—from web apps a
  - 3rd place winner in BuildIT
  - 1st place winner in The Arab Cup Web Sprint Challenge
 
+
+
+# What i enjoy doing 
+
+ - i love learning new topics, new Tech and implementing them, i also love posting articles in Medium about topics i enjoy or learn about.
 
 
 ## 🌐 Socials:
