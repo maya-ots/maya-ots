@@ -47,9 +47,17 @@ Hi, I’m a computer science student who loves building things—from web apps a
 
 
 # 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/meow_mayouch) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-otsmane-8920653a9/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@maya.l.abeille.3570) 
+
+
+ ## [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@maya.l.abeille.3570) 
+
+
+ ## [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/meow_mayouch) 
+
+
+ ## [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-otsmane-8920653a9/) 
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
