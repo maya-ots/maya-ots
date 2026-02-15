@@ -21,6 +21,7 @@ Hi, I’m a computer science student who loves building things—from web apps a
  - CNN implementation from scratch using NumPy
  - Pioneer-Pulse : CQRS & read write splitting
  - Images, Containers, CI CD pipelines using Docker and Github pages
+ - Tabby : Chrome extension that helps users with shortcuts
 
 # What i'm currently learning
  - Learning DevOps (CI/CD, Docker, Kubernetes)
