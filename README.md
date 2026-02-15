@@ -14,8 +14,8 @@ Hi, I’m a computer science student who loves building things—from web apps a
 
 
 # My projects :
- - Encryption & Decryption Toolkit : Web tool for cryptography algorithms (HTML, CSS, JS)
- - School Management App : React + Node.js project for class allocation
+ - Scripta : Encryption & Decryption Toolkit : Web tool for cryptography algorithms (HTML, CSS, JS)
+ - Tadbeer : School Management App : React + Node.js project for class allocation
  - Modern Football Dashboard 
  - Transformer From Scratch : NLP model built without high-level libraries
  - CNN implementation from scratch using NumPy
